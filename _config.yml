@@ -1,0 +1,10 @@
+# Site settings
+title: A Balanced Life
+tag_text: Po-Yao's showcase
+description: machine learning techniques for your smooth walk on the street
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
