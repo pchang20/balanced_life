@@ -30,4 +30,3 @@ the dimension.
 
 * Math Guru
 * Heavy metal maniac
-* 30cm
