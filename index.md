@@ -17,7 +17,12 @@ the dimension.
 
 <img src="images/figure2.jpg" alt="Drawing" style="width: 500px;"/>
 
-* This figure shows that the forces the first subject undergone was inward, we may consider as in-toeing walk
+* The first two eigenvectors from PCA (black lines) captures the walking pattern. 
+
+* The rotated L shape of the data cloud in figure 2 suggests the subject has an in-toeing walking pattern.
+
+* By learning the walking pattern, we may promise people a smooth walk.
+
 
 ## Impact
 * Next generation of foot wear product such as socks, shoes
